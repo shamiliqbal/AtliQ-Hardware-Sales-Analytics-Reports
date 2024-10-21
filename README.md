@@ -28,6 +28,12 @@ https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/
 
 https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/Market%20Perfomance%20VS%20Target.pdf
 
+**New Products 2021:**
+
+https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/New%20Products%202021.pdf
+
+
+
 💻🛠️ Tech Stack Include: 
 
 ➣**Pivot Tables:**
