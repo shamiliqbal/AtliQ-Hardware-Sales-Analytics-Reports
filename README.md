@@ -32,6 +32,11 @@ https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/
 
 https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/New%20Products%202021.pdf
 
+**Top 10 Products**
+
+https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/Top%2010%20Products.pdf
+
+
 
 
 💻🛠️ Tech Stack Include: 
