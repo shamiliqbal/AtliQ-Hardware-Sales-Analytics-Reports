@@ -20,6 +20,10 @@
 
 https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/Customer%20Net%20Sales%20Report.pdf
 
+**Division Level Sales:**
+
+https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/Division%20Level%20Sales.pdf
+
 💻🛠️ Tech Stack Include: 
 
 ➣**Pivot Tables:**
