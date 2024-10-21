@@ -1,6 +1,6 @@
 # AtliQ-Hardware-Sales-Analytics-Reports
 
-📝The AtliQ Hardware Sales Analytics Report highlights strong sales growth from 2019 to 2021. Key findings include:
+📝**The AtliQ Hardware Sales Analytics Report highlights strong sales growth from 2019 to 2021. Key findings include:**
 
 ➣ Total sales jumped from $87.5M in 2019 to $598.9M in 2021, reflecting a 304.5% growth from 2020 to 2021.
 
@@ -12,13 +12,17 @@
 
 ➣ This report showcases AtliQ Hardware's rapid expansion, driven by both key customers and product performance.
 
-Reports
 
-Customer Net Sales Report: https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/Customer%20Net%20Sales%20Report.pdf
+
+📑📉**Reports** 
+
+**Customer Net Sales Report:** 
+
+https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/Customer%20Net%20Sales%20Report.pdf
 
 💻🛠️ Tech Stack Include: 
 
-➣Pivot Tables:
+➣**Pivot Tables:**
 
 Used to summarize data across various filters like regions, customers, products, and years.
 Allows slicing and dicing the data for different dimensions such as division or market.
