@@ -24,6 +24,10 @@ https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/
 
 https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/Division%20Level%20Sales.pdf
 
+**Market Perfomance VS Target:**
+
+https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/Market%20Perfomance%20VS%20Target.pdf
+
 💻🛠️ Tech Stack Include: 
 
 ➣**Pivot Tables:**
