@@ -12,6 +12,10 @@
 
 ➣ This report showcases AtliQ Hardware's rapid expansion, driven by both key customers and product performance.
 
+Reports
+
+Customer Net Sales Report: https://github.com/shamiliqbal/AtliQ-Hardware-Sales-Analytics-Reports/blob/main/Customer%20Net%20Sales%20Report.pdf
+
 💻🛠️ Tech Stack Include: 
 
 ➣Pivot Tables:
